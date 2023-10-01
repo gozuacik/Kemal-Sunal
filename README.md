@@ -25,7 +25,7 @@
 * Yok
 
 #### E
-* Yok
+* **Eşek** : "Tosun Paşa" filminde develerin kaybolmasına neden olan hayvan.
 
 #### F
 * **Falaka** : "Salako" filminde çektiği ceza yöntemi.
