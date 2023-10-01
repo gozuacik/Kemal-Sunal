@@ -10,10 +10,10 @@
 * Yok
 
 #### A
-* Yok
+* **Adnan Bıçakçı** : "Orta Direk Şaban" filminde sevdiği kızın dedesi.
 
 #### B
-* Yok
+* **Başına Döndüğüm Kurban Olduğum** : “Yoksul” filminde bir sabah kahvaltısına radyodan eşlik edeb türkü.
 
 #### C
 * Yok
@@ -28,10 +28,10 @@
 * Yok
 
 #### F
-* Yok
+* **Falaka** : "Salako" filminde çektiği ceza.
   
 #### G
-* Yok
+* **Gardrop Fuat** : Sakarlığı ile canından bezdirdiği kabadayı.
 
 #### Ğ
 * Yok
@@ -52,10 +52,10 @@
 * **Kazandibi** : "Tosun Paşa" filminde en sevdiği tatlı.
 
 #### L
-* Yok
+* **Leyla** : "Yoksul" filminde sevdiği kızın adı.
 
 #### M
-* Yok
+* **Martı** : "Atla Gel Şaban" filminde uykusunda sayıkladığı hayvan.
 
 #### N
 * Yok
@@ -73,10 +73,10 @@
 * Yok
 
 #### S 
-* Yok
+* **Sülüman Bey** : "Yoksul" filmindeki patronu/odacı.
 
 #### Ş 
-* Yok
+* **Şaplak** : "Gülen Adam" filmindeki Yusuf karakterinin soy ismi.
 
 #### T
 * Yok
@@ -91,7 +91,7 @@
 * Yok
 
 #### Y
-* Yok
+* **Yandı Ha Yandı** : "Çöpçüler Kralı" filminde seslendirdiği türkülerden biri.
 
 #### Z
 * Yok
