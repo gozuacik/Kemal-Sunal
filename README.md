@@ -13,7 +13,7 @@
 * **Adnan Bıçakçı** : "Orta Direk Şaban" filminde sevdiği kızın dedesi.
 
 #### B
-* **Başına Döndüğüm Kurban Olduğum** : “Yoksul” filminde bir sabah kahvaltısına radyodan eşlik edeb türkü.
+* **Başına Döndüğüm Kurban Olduğum** : “Yoksul” filminde bir sabah kahvaltısına radyodan eşlik eden türkü.
 
 #### C
 * Yok
@@ -28,10 +28,10 @@
 * Yok
 
 #### F
-* **Falaka** : "Salako" filminde çektiği ceza.
+* **Falaka** : "Salako" filminde çektiği ceza yöntemi.
   
 #### G
-* **Gardrop Fuat** : Sakarlığı ile canından bezdirdiği kabadayı.
+* **Gardırop Fuat** : Sakarlığı ile canından bezdirdiği kabadayı.
 
 #### Ğ
 * Yok
@@ -55,7 +55,7 @@
 * **Leyla** : "Yoksul" filminde sevdiği kızın adı.
 
 #### M
-* **Martı** : "Atla Gel Şaban" filminde uykusunda sayıkladığı hayvan.
+* **Martı** : "Atla Gel Şaban" filminde uykusunda sayıkladığı ve üzerine mani yazdığı hayvan.
 
 #### N
 * Yok
@@ -73,7 +73,7 @@
 * Yok
 
 #### S 
-* **Sülüman Bey** : "Yoksul" filmindeki patronu/odacı.
+* **Sülüman Bey** : "Yoksul" filmindeki patron/odacı.
 
 #### Ş 
 * **Şaplak** : "Gülen Adam" filmindeki Yusuf karakterinin soy ismi.
