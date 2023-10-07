@@ -25,7 +25,7 @@
 * **Bülent** : "İnek Şaban" filminde oynadığı karakterlerden birinin adı.
 
 #### C
-* **Cabber** : "Hanzo" filminde oynadığı karakterlerden birinin adı.
+* **Cabbar** : "Hanzo" filminde oynadığı karakterlerden birinin adı.
 * **Cemal** : "İyi Aile Çoçuğu", "Zehir Hafiye" filmlerindeki karakterinin adı.
 
 #### Ç
@@ -33,7 +33,7 @@
 
 #### D
 * **Davaro** : "Davaro" filmindeki sülalesinin ismi.
-* **Davul** : "Çarıklı Milyoner" filmindek yanından ayırmadığı çalgısı.
+* **Davul** : "Çarıklı Milyoner" filminde yanından ayırmadığı çalgısı.
 * **Deli Kaymakam** : "Deli Deli Küpeli" filmindeki karakterinin adı.
 
 #### E
@@ -45,7 +45,7 @@
 * **Feyzo** : "Kibar Feyzo" filmindeki karakterinin adı.
   
 #### G
-* **Gardırop Fuat** : Sakarlığı ile canından bezdirdiği kabadayı.
+* **Gardırop Fuat** : "Sakar Şakir" filminde sakarlığı ile canından bezdirdiği kabadayı.
 
 #### Ğ
 * Yok
@@ -69,7 +69,7 @@
 #### K
 * **Kamil** : "Kılıbık" filmindeki karakterinin adı.
 * **Karamürselli Deli Hamdi** : "Yedi Bela Hüsnü" filminde Hüsnü'yü öldürmek için kullanılan karakterlerden biri.
-* * **Kaymakam Cafer** : "Mavi Boncuk" filmindeki karakterinin adı.
+* **Kaymakam Cafer** : "Mavi Boncuk" filmindeki karakterinin adı.
 * **Kazandibi** : "Tosun Paşa" filminde en sevdiği tatlı.
 * **Kemal** : "Bıçkın", "Doktor Civanım", "Garip", "İyi Aile Çocuğu", "Sahte Kabadayı", "Tatlı Dillim", "Yalancı Yarim" filmlerindeki karakterinin adı.
 * **Kerim** : "Kiracı" filmindeki karakterinin adı.
