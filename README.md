@@ -7,13 +7,19 @@
 | [P](#p) | [R](#r)   | [S](#s) 	| [Ş](#ş) | [T](#t)   | [U](#u)   | [Ü](#ü)   | [V](#v) | [Y](#y) | [Z](#z)
 
 #### \#
-* Yok
+* **11 Kasım 1944**: Doğum Tarihi
+* **03 Temmuz 2000**: Ölüm Tarihi
+* **82** : Oyuncu olarak yer aldığı film sayısı 
 
 #### A
+* **Abdi** : "Kanlı Nigar" filminde oynadığı karakterlerden birinin adı.
+* **Adem** : "Postacı" filmindeki karakterinin adı.
+* **Ademoğlu Ali** : "Abuk Sabuk Bir Film" filmindeki karakterinin adı.
 * **Adnan Bıçakçı** : "Orta Direk Şaban" filminde sevdiği kızın dedesi.
 
 #### B
 * **Başına Döndüğüm Kurban Olduğum** : “Yoksul” filminde bir sabah kahvaltısına radyodan eşlik eden türkü.
+* **Bayram** : "Çarıklı Milyoner" filmindeki karakterinin adı.
 
 #### C
 * Yok
@@ -22,7 +28,8 @@
 * Yok
 
 #### D
-* Yok
+* **Davaro** : "Davaro" filmindeki sülalesinin ismi.
+* **Davul** : "Çarıklı Milyoner" filmindek yanından ayırmadığı çalgısı.
 
 #### E
 * **Eşek** : "Tosun Paşa" filminde develerin kaybolmasına neden olan hayvan.
@@ -37,7 +44,7 @@
 * Yok
   
 #### H
-* Yok
+* **Hüsnü** : "Yedi Bela Hüsnü" filmindeki karakterinin adı.
 
 #### I
 * Yok
@@ -49,16 +56,23 @@
 * Yok
 
 #### K
+* **Kamil** : "Kılıbık" filmindeki karakterinin adı.
+* **Karamürselli Deli Hamdi** : "Yedi Bela Hüsnü" filminde Hüsnü'yü öldürmek için kullanılan karakterlerden biri.
 * **Kazandibi** : "Tosun Paşa" filminde en sevdiği tatlı.
+* **Kemal** : "Doktor Civanım" filmindeki karakterinin adı.
+* **Kız İsmet** : "Yedi Bela Hüsnü" filminde Hüsnü'yü öldürmek için kullanılan karakterlerden biri.
+* **Küheylan** : "Boynu Bükük Küheylan" filmindeki karakterinin adı.
 
 #### L
 * **Leyla** : "Yoksul" filminde sevdiği kızın adı.
 
 #### M
 * **Martı** : "Atla Gel Şaban" filminde uykusunda sayıkladığı ve üzerine mani yazdığı hayvan.
+* **Memo** : "Davaro" filmindeki karakterinin adı.
 
 #### N
-* Yok
+* **Narçın** : "Kanlı Nigar" filminde oynadığı karakterlerden birinin adı.
+* **Niyazi** : "Atla Gel Şaban" filmindeki karakterinin adı.
 
 #### O
 * Yok
@@ -70,12 +84,15 @@
 * Yok
 
 #### R
-* Yok
+* **Ragıp** : "Varyemez" filmindeki karakterinin adı.
+* **Rıfkı** : "Üçkağıtçı" filmindeki karakterinin adı.
 
 #### S 
 * **Sülüman Bey** : "Yoksul" filmindeki patron/odacı.
 
 #### Ş 
+* **Şaban** : "En Büyük Şaban", "Gurbetçi Şaban", "Katma Değer Şaban", "Ortadirek Şaban", "Şabaniye" filmlerindeki karakterinin adı.
+* **Şabaniye** : "Şabaniye" filminde oynadığı karakterlerden birinin adı.
 * **Şaplak** : "Gülen Adam" filmindeki Yusuf karakterinin soy ismi.
 
 #### T
@@ -94,4 +111,4 @@
 * **Yandı Ha Yandı** : "Çöpçüler Kralı" filminde seslendirdiği türkülerden biri.
 
 #### Z
-* Yok
+* **Zühtü** : "Koltuk Belası" filmindeki karakterinin adı.
