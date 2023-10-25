@@ -132,8 +132,8 @@
 * Yok
 
 #### V
-* **Veysel** : "Japon İşi" filmindeki karakterinin adı.
-
+* **Veysel** : 1- "Japon İşi" filmindeki karakterinin adı. 2- "Hababam Sınıfı" film serilerinde kapıdaki görevli karakterin ismi: "Aç kapıyı Veysel Efendi".
+   
 #### Y
 * **Yandı Ha Yandı** : "Çöpçüler Kralı" filminde seslendirdiği türkülerden biri.
 * **Yanık** : "Hasret" filmindeki karakterinin adı.
