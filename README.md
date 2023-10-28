@@ -9,7 +9,8 @@
 #### \#
 * **11 Kasım 1944**: Doğum Tarihi
 * **03 Temmuz 2000**: Ölüm Tarihi
-* **82** : Oyuncu olarak yer aldığı film sayısı 
+* **82** : Oyuncu olarak yer aldığı film sayısı
+* **3999** : "Kılıbık" filminde 4000 olmadığı için sevinilen televizyonun taksit bedeli.
 
 #### A
 * **Abdi** : "Çöpçüler Kralı", "Kanlı Nigar" filmlerindeki karakterinin adı.
@@ -17,6 +18,7 @@
 * **Ademoğlu Ali** : "Abuk Sabuk Bir Film" filmindeki karakterinin adı.
 * **Adnan Bıçakçı** : "Orta Direk Şaban" filminde sevdiği kızın dedesi.
 * **Ali** : "Bıçkın", "Polizei", "Uyanık Gazeteci" filmlerindeki karakterinin adı.
+* **Altunizade** : "Salak Milyoner" filminde Mehmet Çavuş'un oturduğu semt.
 * **Apti** : "Avanak Apti", "Şaşkın Damat" filmlerindeki karakterinin adı.
 
 #### B
@@ -29,7 +31,7 @@
 * **Cemal** : "İyi Aile Çoçuğu", "Zehir Hafiye" filmlerindeki karakterinin adı.
 
 #### Ç
-* Yok
+* **Çopur Nejla** : "Yüz Numaralı Adam" filminde Şaban'ın kazandığı parayı, babasının Yapı Kredi'ye yatırdığını mahalleliye duyuran kişi.
 
 #### D
 * **Davaro** : "Davaro" filmindeki sülalesinin ismi.
@@ -52,6 +54,7 @@
   
 #### H
 * **Hanzo** : "Hanzo" filminde oynadığı karakterlerden birinin adı.
+* **Harita** : "Salak Milyoner" filminde definenin yerini gösteren belge.
 * **Hasan** : "Sakar Şakir" filminde oynadığı karakterlerden birinin adı. 
 * **Hayrettin** : "Sevimli Hırsız" filminde oynadığı karakterlerden birinin adı.
 * **Hüsnü** : "Öğretmen", "Yedi Bela Hüsnü" filmlerindeki karakterinin adı.
@@ -80,6 +83,7 @@
 
 #### L
 * **Leyla** : "Yoksul" filminde sevdiği kızın adı.
+* **Libya** : "Şabaniye" filminde kan davasından kaçan Şaban'ın gittiği söylendiği ülke.
 
 #### M
 * **Martı** : "Atla Gel Şaban" filminde uykusunda sayıkladığı ve üzerine mani yazdığı hayvan.
