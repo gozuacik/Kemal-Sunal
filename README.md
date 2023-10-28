@@ -90,7 +90,9 @@
 * **Mehdi** : "Propaganda" filmindeki karakterinin adı.
 * **Mehmet** : "Düttürü Dünya" filmindeki karakterinin adı.
 * **Memo** : "Davaro" filmindeki karakterinin adı.
+* **Mennan** : "Köşeyi Dönen Adam" filminde holdingin yönetim kurulu başkanı.
 * **Metin** : "Sevimli Hırsız" filminde oynadığı karakterlerden birinin adı.
+* **Mister Dörtnal** : "Köşeyi Dönen Adam" filminde karnında elmas olduğuna inanıldığı için fahri başkanlığa kadar yükselen eşek.
 * **Mustafa** : "Devlet Kuşu" filmindeki karakterinin adı.
 * **Mülayim** : "Korkusuz Korkak" filmindeki karakterinin adı.
 
@@ -125,9 +127,10 @@
 * **Şabaniye** : "Şabaniye" filminde oynadığı karakterlerden birinin adı.
 * **Şakir** : "Sakar Şakir" filminde oynadığı karakterlerden birinin adı. 
 * **Şaplak** : "Gülen Adam" filmindeki Yusuf karakterinin soy ismi.
+* **Şıpadanak** : "Yoksul" filminde Yoksul'un baş ağrısı için insanlara verdiği ilacın etkisini anlatan terim.
 
 #### T
-* Yok
+* **Tevfik Fikret** : "Hababam Sınıfı Sınıfta Kaldı" filminde öğrencilerin Semra Hoca'yı ölüm yılldönümü konusunda kandırdıkları edebiyatçı/şair.
 
 #### U
 * Yok
@@ -146,6 +149,7 @@
 * **Yusuf** : "Gülen Adam" filmindeki karakterinin adı.
 
 #### Z
+* **Zaire** : "Hababam Sınıfı" filminde bilgi yarışmasında cumhurbaşkanı sorulan ülke.
 * **Zeybekzade Kara Yusuf Efe** : "Zübük" filminde oynadığı karakterlerden birinin adı.
 * **Zühtü** : "Koltuk Belası", "Meraklı Köfteci" filmlerindeki karakterinin adı.
 * **Zülfü** : "Keriz" filmindeki karakterinin adı.
