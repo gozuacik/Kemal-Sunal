@@ -57,6 +57,7 @@
 * **Harita** : "Salak Milyoner" filminde definenin yerini gösteren belge.
 * **Hasan** : "Sakar Şakir" filminde oynadığı karakterlerden birinin adı. 
 * **Hayrettin** : "Sevimli Hırsız" filminde oynadığı karakterlerden birinin adı.
+* **Hortum** : "Davaro" filminde Memo ile Sülo'nun sahte defin operasyonunda kullandıkları bir araç-gereç.
 * **Hüsnü** : "Öğretmen", "Yedi Bela Hüsnü" filmlerindeki karakterinin adı.
 
 #### I
